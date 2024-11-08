@@ -1,0 +1,24 @@
+{
+  "B9EC367F-A95A-4159-805E-2703D1A26ADF" : {
+    "objectMetadataList" : [
+      [
+        "B9EC367F-A95A-4159-805E-2703D1A26ADF",
+        "Root",
+        "SkySphere"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "B9EC367F-A95A-4159-805E-2703D1A26ADF",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  }
+}
